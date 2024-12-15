@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1>ola pessoal :v:</h1>
 
-<!--
-**kekel007/kekel007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+eu me chamo kellven ,tenho 24 anos... atualmente estou em , deselvolvimento html css e javascript com prof rodolfo mori no devclub, inicie dia 26/11/24 sou de SP zona 
 
-Here are some ideas to get you started:
+ kellvenmiedes21@gmail.com
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+      
+   
+
+  
