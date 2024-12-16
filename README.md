@@ -10,12 +10,14 @@ eu me chamo kellven ,tenho 24 anos... atualmente estou em , deselvolvimento html
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
 <h1>Minhas Rede Socias</h1>
-<a href="www.linkedin.com/in/kellven-miedes-24644b33a"target="_blank"> 
-   <img src="	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://www.linkedin.com/in/kellven-miedes-24644b33a" target="_blank">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
- 
 
+
+
+ 
 
 
 
