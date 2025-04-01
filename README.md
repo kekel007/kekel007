@@ -1,6 +1,6 @@
 <h1>ola pessoal :v:</h1>
 
-eu me chamo kellven ,tenho 24 anos... atualmente estou em , deselvolvimento html css e javascript com prof rodolfo mori no devclub, inicie dia 26/11/24 sou de SP zona 
+eu me chamo kellven ,tenho 24 anos... atualmente estou em , deselvolvimento html css e javascript react.js node.js com prof rodolfo mori no devclub, inicie dia 26/11/24 sou de SP zona 
 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> <br>kellvenmiedes21@gmail.com
 
@@ -8,6 +8,7 @@ eu me chamo kellven ,tenho 24 anos... atualmente estou em , deselvolvimento html
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 
 <h1> Rede Socias</h1>
 <a href="https://www.linkedin.com/in/kellven-miedes-24644b33a" target="_blank">
@@ -23,6 +24,8 @@ eu me chamo kellven ,tenho 24 anos... atualmente estou em , deselvolvimento html
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
 </a>
 <br>
+
+
 
 <h1>Estatísticas</h1>
 
